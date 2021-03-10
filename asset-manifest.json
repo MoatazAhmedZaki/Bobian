@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bobian/static/css/main.b3cc3f63.chunk.css",
+    "main.js": "/Bobian/static/js/main.88ee5abc.chunk.js",
+    "main.js.map": "/Bobian/static/js/main.88ee5abc.chunk.js.map",
+    "runtime-main.js": "/Bobian/static/js/runtime-main.caf197a4.js",
+    "runtime-main.js.map": "/Bobian/static/js/runtime-main.caf197a4.js.map",
+    "static/js/2.84b2fc27.chunk.js": "/Bobian/static/js/2.84b2fc27.chunk.js",
+    "static/js/2.84b2fc27.chunk.js.map": "/Bobian/static/js/2.84b2fc27.chunk.js.map",
+    "index.html": "/Bobian/index.html",
+    "precache-manifest.d32fa3de17f3b5a4a398a16db966f4d6.js": "/Bobian/precache-manifest.d32fa3de17f3b5a4a398a16db966f4d6.js",
+    "service-worker.js": "/Bobian/service-worker.js",
+    "static/css/main.b3cc3f63.chunk.css.map": "/Bobian/static/css/main.b3cc3f63.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caf197a4.js",
+    "static/js/2.84b2fc27.chunk.js",
+    "static/css/main.b3cc3f63.chunk.css",
+    "static/js/main.88ee5abc.chunk.js"
+  ]
+}
